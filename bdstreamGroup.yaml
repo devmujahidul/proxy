@@ -1,0 +1,381 @@
+proxies:
+  - name: "🧊 BDstream Bnet 1"
+    type: socks5
+    server: 115.127.13.155
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 2"
+    type: socks5
+    server: 115.127.29.226
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 3"
+    type: socks5
+    server: 115.127.30.146
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 4"
+    type: socks5
+    server: 115.127.151.238
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 5"
+    type: socks5
+    server: 115.127.156.114
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 6"
+    type: socks5
+    server: 115.127.156.158
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 7"
+    type: socks5
+    server: 115.127.159.170
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 8"
+    type: socks5
+    server: 115.127.210.140
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 9"
+    type: socks5
+    server: 115.127.213.145
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 10"
+    type: socks5
+    server: 115.127.208.178
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 11"
+    type: socks5
+    server: 202.168.249.116
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 12"
+    type: socks5
+    server: 202.168.252.237
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 13"
+    type: socks5
+    server: 115.127.50.226
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 14"
+    type: socks5
+    server: 115.127.52.18
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 15"
+    type: socks5
+    server: 115.127.62.202
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 16"
+    type: socks5
+    server: 115.127.74.244
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 17"
+    type: socks5
+    server: 115.127.77.19
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 18"
+    type: socks5
+    server: 115.127.81.101
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 19"
+    type: socks5
+    server: 115.127.81.122
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 20"
+    type: socks5
+    server: 115.127.92.30
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 21"
+    type: socks5
+    server: 115.127.92.226
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 22"
+    type: socks5
+    server: 115.127.95.90
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 23"
+    type: socks5
+    server: 115.127.96.76
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 24"
+    type: socks5
+    server: 115.127.112.218
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 25"
+    type: socks5
+    server: 115.127.142.98
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 26"
+    type: socks5
+    server: 115.127.148.146
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 27"
+    type: socks5
+    server: 115.127.153.106
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 28"
+    type: socks5
+    server: 115.127.206.82
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 29"
+    type: socks5
+    server: 115.127.208.158
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 30"
+    type: socks5
+    server: 115.127.139.5
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊 BDstream Bnet 31"
+    type: socks5
+    server: 115.127.148.18
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🌬️ BDstream Osky 1"
+    type: socks5
+    server: 103.91.128.106
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🌬️ BDstream Osky 2"
+    type: socks5
+    server: 103.91.128.110
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🌬️ BDstream Osky 3"
+    type: socks5
+    server: 103.91.129.190
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🌬️ BDstream Osky 4"
+    type: socks5
+    server: 103.91.129.170
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🌬️ BDstream Osky 5"
+    type: socks5
+    server: 103.91.129.209
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🌬️ BDstream Osky 6"
+    type: socks5
+    server: 103.91.129.238
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🌬️ BDstream Osky 7"
+    type: socks5
+    server: 123.253.37.149
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🌬️ BDstream Osky 8"
+    type: http
+    server: 120.50.19.177
+    port: 6699
+    username: ECats
+    password: ECats
+
+proxy-groups:
+  - name: "🖐️ Manual Selection"
+    type: select
+    proxies:
+      - "🌐 BDstream All"
+      - "❄️ BDstream Bnet"
+      - "💨 BDstream Osky"
+      - "🧊 BDstream Bnet 1"
+      - "🧊 BDstream Bnet 2"
+      - "🧊 BDstream Bnet 3"
+      - "🧊 BDstream Bnet 4"
+      - "🧊 BDstream Bnet 5"
+      - "🧊 BDstream Bnet 6"
+      - "🧊 BDstream Bnet 7"
+      - "🧊 BDstream Bnet 8"
+      - "🧊 BDstream Bnet 9"
+      - "🧊 BDstream Bnet 10"
+      - "🧊 BDstream Bnet 11"
+      - "🧊 BDstream Bnet 12"
+      - "🧊 BDstream Bnet 13"
+      - "🧊 BDstream Bnet 14"
+      - "🧊 BDstream Bnet 15"
+      - "🧊 BDstream Bnet 16"
+      - "🧊 BDstream Bnet 17"
+      - "🧊 BDstream Bnet 18"
+      - "🧊 BDstream Bnet 19"
+      - "🧊 BDstream Bnet 20"
+      - "🧊 BDstream Bnet 21"
+      - "🧊 BDstream Bnet 22"
+      - "🧊 BDstream Bnet 23"
+      - "🧊 BDstream Bnet 24"
+      - "🧊 BDstream Bnet 25"
+      - "🧊 BDstream Bnet 26"
+      - "🧊 BDstream Bnet 27"
+      - "🧊 BDstream Bnet 28"
+      - "🧊 BDstream Bnet 29"
+      - "🧊 BDstream Bnet 30"
+      - "🧊 BDstream Bnet 31"
+      - "🌬️ BDstream Osky 1"
+      - "🌬️ BDstream Osky 2"
+      - "🌬️ BDstream Osky 3"
+      - "🌬️ BDstream Osky 4"
+      - "🌬️ BDstream Osky 5"
+      - "🌬️ BDstream Osky 6"
+      - "🌬️ BDstream Osky 7"
+      - "🌬️ BDstream Osky 8"
+
+  - name: "🌐 BDstream All"
+    type: load-balance
+    proxies:
+      - "🧊 BDstream Bnet 1"
+      - "🧊 BDstream Bnet 2"
+      - "🧊 BDstream Bnet 3"
+      - "🧊 BDstream Bnet 4"
+      - "🧊 BDstream Bnet 5"
+      - "🧊 BDstream Bnet 6"
+      - "🧊 BDstream Bnet 7"
+      - "🧊 BDstream Bnet 8"
+      - "🧊 BDstream Bnet 9"
+      - "🧊 BDstream Bnet 10"
+      - "🧊 BDstream Bnet 11"
+      - "🧊 BDstream Bnet 12"
+      - "🧊 BDstream Bnet 13"
+      - "🧊 BDstream Bnet 14"
+      - "🧊 BDstream Bnet 15"
+      - "🧊 BDstream Bnet 16"
+      - "🧊 BDstream Bnet 17"
+      - "🧊 BDstream Bnet 18"
+      - "🧊 BDstream Bnet 19"
+      - "🧊 BDstream Bnet 20"
+      - "🧊 BDstream Bnet 21"
+      - "🧊 BDstream Bnet 22"
+      - "🧊 BDstream Bnet 23"
+      - "🧊 BDstream Bnet 24"
+      - "🧊 BDstream Bnet 25"
+      - "🧊 BDstream Bnet 26"
+      - "🧊 BDstream Bnet 27"
+      - "🧊 BDstream Bnet 28"
+      - "🧊 BDstream Bnet 29"
+      - "🧊 BDstream Bnet 30"
+      - "🧊 BDstream Bnet 31"
+      - "🌬️ BDstream Osky 1"
+      - "🌬️ BDstream Osky 2"
+      - "🌬️ BDstream Osky 3"
+      - "🌬️ BDstream Osky 4"
+      - "🌬️ BDstream Osky 5"
+      - "🌬️ BDstream Osky 6"
+      - "🌬️ BDstream Osky 7"
+      - "🌬️ BDstream Osky 8"
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+
+  - name: "❄️ BDstream Bnet"
+    type: load-balance
+    proxies:
+      - "🧊 BDstream Bnet 1"
+      - "🧊 BDstream Bnet 2"
+      - "🧊 BDstream Bnet 3"
+      - "🧊 BDstream Bnet 4"
+      - "🧊 BDstream Bnet 5"
+      - "🧊 BDstream Bnet 6"
+      - "🧊 BDstream Bnet 7"
+      - "🧊 BDstream Bnet 8"
+      - "🧊 BDstream Bnet 9"
+      - "🧊 BDstream Bnet 10"
+      - "🧊 BDstream Bnet 11"
+      - "🧊 BDstream Bnet 12"
+      - "🧊 BDstream Bnet 13"
+      - "🧊 BDstream Bnet 14"
+      - "🧊 BDstream Bnet 15"
+      - "🧊 BDstream Bnet 16"
+      - "🧊 BDstream Bnet 17"
+      - "🧊 BDstream Bnet 18"
+      - "🧊 BDstream Bnet 19"
+      - "🧊 BDstream Bnet 20"
+      - "🧊 BDstream Bnet 21"
+      - "🧊 BDstream Bnet 22"
+      - "🧊 BDstream Bnet 23"
+      - "🧊 BDstream Bnet 24"
+      - "🧊 BDstream Bnet 25"
+      - "🧊 BDstream Bnet 26"
+      - "🧊 BDstream Bnet 27"
+      - "🧊 BDstream Bnet 28"
+      - "🧊 BDstream Bnet 29"
+      - "🧊 BDstream Bnet 30"
+      - "🧊 BDstream Bnet 31"
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+
+  - name: "💨 BDstream Osky"
+    type: load-balance
+    proxies:
+      - "🌬️ BDstream Osky 1"
+      - "🌬️ BDstream Osky 2"
+      - "🌬️ BDstream Osky 3"
+      - "🌬️ BDstream Osky 4"
+      - "🌬️ BDstream Osky 5"
+      - "🌬️ BDstream Osky 6"
+      - "🌬️ BDstream Osky 7"
+      - "🌬️ BDstream Osky 8"
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+
+rules:
+  - MATCH,🖐️ Manual Selection
